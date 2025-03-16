@@ -1,7 +1,7 @@
 {
     "name": "𝗔𝘇𝗮𝗹𝗲𝗮 𝗔𝗶𝗿𝗹𝗶𝗻𝗲𝘀",
     "color": "gray",
-    "bgcolor": "light pink",
+    "bgcolor": "pink",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
